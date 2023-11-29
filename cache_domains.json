@@ -36,11 +36,16 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "gigabyte",
+			"description": "Gigabyte drivers and updates",
+			"domain_files": ["gigabyte.txt"]
+		},
+		{
 			"name": "microsoft",
 			"description": "Microsoft urls",
 			"domain_files": ["microsoft.txt"]
-    },
-    {
+		},
+		{
 			"name": "msi",
 			"description": "MSI Control center",
 			"domain_files": ["msicontrolcenter.txt"]
