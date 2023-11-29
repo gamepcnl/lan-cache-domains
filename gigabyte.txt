@@ -1,0 +1,2 @@
+download.gigabyte.com
+*.download.gigabyte.com
