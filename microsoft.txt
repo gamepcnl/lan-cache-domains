@@ -1,0 +1,6 @@
+download.windowsupdate.com
+*.download.windowsupdate.com
+tlu.dl.delivery.mp.microsoft.com
+*.tlu.dl.delivery.mp.microsoft.com
+officecdn.microsoft.com
+officecdn.microsoft.com.edgesuite.net
