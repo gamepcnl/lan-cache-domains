@@ -36,6 +36,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "microsoft",
+			"description": "Microsoft urls",
+			"domain_files": ["microsoft.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
