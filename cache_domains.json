@@ -58,8 +58,6 @@
 		{
 			"name": "nvidia",
 			"description": "CDN for Nvidia",
-			"notes": "Should be enabled for HTTP traffic only or with a HTTPS proxy else origin client download fails",
-			"mixed_content": true,
 			"domain_files": ["nvidia.txt"]
 		},
 		{
