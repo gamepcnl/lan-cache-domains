@@ -39,6 +39,11 @@
 			"name": "microsoft",
 			"description": "Microsoft urls",
 			"domain_files": ["microsoft.txt"]
+    },
+    {
+			"name": "msi",
+			"description": "MSI Control center",
+			"domain_files": ["msicontrolcenter.txt"]
 		},
 		{
 			"name": "nexusmods",
@@ -54,6 +59,11 @@
 			"name": "nintendo",
 			"description": "CDN for Nintendo consoles and download servers",
 			"domain_files": ["nintendo.txt"]
+		},
+		{
+			"name": "nvidia",
+			"description": "CDN for Nvidia",
+			"domain_files": ["nvidia.txt"]
 		},
 		{
 			"name": "origin",
