@@ -1,0 +1,2 @@
+liveupdate.msi.com
+msi-func-cosmosdb.azurewebsites.net
