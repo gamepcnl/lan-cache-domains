@@ -1,2 +1,4 @@
+asset.msi.com
+download.msi.com
 liveupdate.msi.com
 msi-func-cosmosdb.azurewebsites.net
